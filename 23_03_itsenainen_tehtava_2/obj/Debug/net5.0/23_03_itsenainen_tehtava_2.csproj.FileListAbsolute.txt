@@ -1,0 +1,16 @@
+C:\Users\Slav!\source\repos\23_03_itsenainen_tehtava_2\23_03_itsenainen_tehtava_2\bin\Debug\net5.0\23_03_itsenainen_tehtava_2.exe
+C:\Users\Slav!\source\repos\23_03_itsenainen_tehtava_2\23_03_itsenainen_tehtava_2\bin\Debug\net5.0\23_03_itsenainen_tehtava_2.deps.json
+C:\Users\Slav!\source\repos\23_03_itsenainen_tehtava_2\23_03_itsenainen_tehtava_2\bin\Debug\net5.0\23_03_itsenainen_tehtava_2.runtimeconfig.json
+C:\Users\Slav!\source\repos\23_03_itsenainen_tehtava_2\23_03_itsenainen_tehtava_2\bin\Debug\net5.0\23_03_itsenainen_tehtava_2.runtimeconfig.dev.json
+C:\Users\Slav!\source\repos\23_03_itsenainen_tehtava_2\23_03_itsenainen_tehtava_2\bin\Debug\net5.0\23_03_itsenainen_tehtava_2.dll
+C:\Users\Slav!\source\repos\23_03_itsenainen_tehtava_2\23_03_itsenainen_tehtava_2\bin\Debug\net5.0\ref\23_03_itsenainen_tehtava_2.dll
+C:\Users\Slav!\source\repos\23_03_itsenainen_tehtava_2\23_03_itsenainen_tehtava_2\bin\Debug\net5.0\23_03_itsenainen_tehtava_2.pdb
+C:\Users\Slav!\source\repos\23_03_itsenainen_tehtava_2\23_03_itsenainen_tehtava_2\obj\Debug\net5.0\23_03_itsenainen_tehtava_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slav!\source\repos\23_03_itsenainen_tehtava_2\23_03_itsenainen_tehtava_2\obj\Debug\net5.0\23_03_itsenainen_tehtava_2.AssemblyInfoInputs.cache
+C:\Users\Slav!\source\repos\23_03_itsenainen_tehtava_2\23_03_itsenainen_tehtava_2\obj\Debug\net5.0\23_03_itsenainen_tehtava_2.AssemblyInfo.cs
+C:\Users\Slav!\source\repos\23_03_itsenainen_tehtava_2\23_03_itsenainen_tehtava_2\obj\Debug\net5.0\23_03_itsenainen_tehtava_2.csproj.CoreCompileInputs.cache
+C:\Users\Slav!\source\repos\23_03_itsenainen_tehtava_2\23_03_itsenainen_tehtava_2\obj\Debug\net5.0\23_03_itsenainen_tehtava_2.dll
+C:\Users\Slav!\source\repos\23_03_itsenainen_tehtava_2\23_03_itsenainen_tehtava_2\obj\Debug\net5.0\ref\23_03_itsenainen_tehtava_2.dll
+C:\Users\Slav!\source\repos\23_03_itsenainen_tehtava_2\23_03_itsenainen_tehtava_2\obj\Debug\net5.0\23_03_itsenainen_tehtava_2.pdb
+C:\Users\Slav!\source\repos\23_03_itsenainen_tehtava_2\23_03_itsenainen_tehtava_2\obj\Debug\net5.0\23_03_itsenainen_tehtava_2.genruntimeconfig.cache
+C:\Users\Slav!\source\repos\23_03_itsenainen_tehtava_2\23_03_itsenainen_tehtava_2\obj\Debug\net5.0\23_03_itsenainen_tehtava_2.csproj.AssemblyReference.cache
